@@ -1,4 +1,4 @@
-name: Deploy shp1
+name: Deploy shp1 with snyk
 
 on:
   push:
